@@ -7,7 +7,7 @@ app.use(express.json());
 app.use(cors());
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World!' as string);
+  res.send('Brainy Buys Server is Running' as string);
 });
 
 export default app;
