@@ -1,5 +1,5 @@
 {
-  "name": "brainy_buys_server",
+  "name": "dr._oncall_server",
   "version": "1.0.0",
   "main": "src/server.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "prettier": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
     "prettier:fix": "yarn prettier --write src"
   },
-  "repository": "https://github.com/tahdiislam/brainybuys_server",
+  "repository": "https://github.com/Code-Warriors-24/Dr.-OnCall-server.git",
   "author": "Tahdi Islam",
   "license": "MIT",
   "dependencies": {
